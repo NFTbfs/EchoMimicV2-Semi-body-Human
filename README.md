@@ -1,22 +1,5 @@
 <h1 align='center'>EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning</h1>
 
-<div align='center'>
-    *Equal Contribution.
-</div>
-
-<div align='center'>
-Terminal Technology Department, Alipay, Ant Group.
-</div>
-<br>
-<div align='center'>
-    <a href='https://antgroup.github.io/ai/echomimic/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
-    <a href='https://huggingface.co/BadToBest/EchoMimic'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
-    <a href='https://huggingface.co/spaces/BadToBest/EchoMimic'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Demo-yellow'></a>
-    <a href='https://www.modelscope.cn/models/BadToBest/EchoMimic'><img src='https://img.shields.io/badge/ModelScope-Model-purple'></a>
-    <a href='https://www.modelscope.cn/studios/BadToBest/BadToBest'><img src='https://img.shields.io/badge/ModelScope-Demo-purple'></a>
-    <a href='https://arxiv.org/abs/2407.08136'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-</div>
-
 ## &#x1F4E3;&#x1F4E3; Updates
 * [2024.08.02] 🔥 EchoMimic is now available on [huggingface](https://huggingface.co/spaces/BadToBest/EchoMimic) with A100 GPU. Thanks Wenmeng Zhou@ModelScope.
 * [2024.07.25] 🔥🔥🔥 Accelerated models and pipe on **Audio Driven** are released. The inference speed can be improved by **10x** (from ~7mins/240frames to ~50s/240frames on V100 GPU)
